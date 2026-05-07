@@ -1,4 +1,4 @@
-# AI Photo Vault (Serverless Cloud Application)
+# Forgegrid - Smart Photo Gallery
 
 This repository contains a full-stack, serverless web application that allows users to upload photos, automatically indexes them using Machine Learning, and searches them using Natural Language Processing.
 
