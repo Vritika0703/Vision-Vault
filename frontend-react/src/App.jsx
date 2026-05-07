@@ -109,7 +109,7 @@ function App() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2 text-indigo-600">
             <ImageIcon className="w-8 h-8" />
-            <h1 className="text-xl font-bold tracking-tight text-slate-900">Forgegrid</h1>
+            <h1 className="text-xl font-bold tracking-tight text-slate-900">Vision Vault</h1>
           </div>
           <nav className="flex gap-4">
             <button 
